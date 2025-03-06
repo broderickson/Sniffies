@@ -1,0 +1,2 @@
+# Sniffies
+Sniffies notify screenshots       
